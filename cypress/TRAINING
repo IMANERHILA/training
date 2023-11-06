@@ -1,0 +1,7 @@
+describe('titre de la suite de  test',()=> {
+    // ecrire les scenarios de tests
+    it("titre du scenario",() =>   {
+        //ecrire les instructions du scenario de tests
+        
+    })
+})

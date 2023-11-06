@@ -1,0 +1,10 @@
+{
+    "compileoptions":{
+        "allowsJs": true,
+        "checkJs":true,
+        "noEmit":true,
+        "types": ["cypress"]
+    },
+    "include":["cypress/**/*.js","cypress/**/*.ts"]
+    
+}
